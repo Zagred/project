@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PlamenPandev\\Desktop\\project\\ApiDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{070C455B-97A3-4AC6-BC2E-8C6402AD17B6}|ApiDemo\\ApiDemo.csproj|c:\\users\\plamenpandev\\desktop\\project\\apidemoapp\\apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070C455B-97A3-4AC6-BC2E-8C6402AD17B6}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070C455B-97A3-4AC6-BC2E-8C6402AD17B6}|ApiDemo\\ApiDemo.csproj|c:\\users\\plamenpandev\\desktop\\project\\apidemoapp\\apidemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070C455B-97A3-4AC6-BC2E-8C6402AD17B6}|ApiDemo\\ApiDemo.csproj|solutionrelative:apidemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PlamenPandev\\Desktop\\project\\ApiDemoApp\\ApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\PlamenPandev\\Desktop\\project\\ApiDemoApp\\ApiDemo\\Program.cs",
+              "RelativeToolTip": "ApiDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:16:02.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\PlamenPandev\\Desktop\\project\\ApiDemoApp\\ApiDemo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ApiDemo\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\PlamenPandev\\Desktop\\project\\ApiDemoApp\\ApiDemo\\WeatherForecast.cs",
+              "RelativeToolTip": "ApiDemo\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:12:00.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
